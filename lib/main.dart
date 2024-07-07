@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:toko_motor_asep/pages/auth/login.dart';
-import 'package:toko_motor_asep/pages/home.dart';
-import 'package:toko_motor_asep/pages/navigation_bar.dart';
+import 'package:rental_mobil/pages/auth/login.dart';
+import 'package:rental_mobil/pages/home.dart';
+import 'package:rental_mobil/pages/navigation_bar.dart';
 
 void main() {
   runApp(TokoMotor());
