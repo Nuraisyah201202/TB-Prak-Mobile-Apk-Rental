@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toko_motor_asep/pages/auth/login.dart';
+import 'package:rental_mobil/pages/auth/login.dart';
 
 class AccountScreen extends StatelessWidget {
   @override
