@@ -2,10 +2,10 @@ import 'dart:developer';
 
 import 'package:animated_notch_bottom_bar/animated_notch_bottom_bar/animated_notch_bottom_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:toko_motor_asep/pages/account.dart';
-import 'package:toko_motor_asep/pages/home.dart';
-import 'package:toko_motor_asep/pages/keranjang.dart';
-import 'package:toko_motor_asep/pages/notification.dart';
+import 'package:rental_mobil/pages/account.dart';
+import 'package:rental_mobil/pages/home.dart';
+import 'package:rental_mobil/pages/keranjang.dart';
+import 'package:rental_mobil/pages/notification.dart';
 
 
 
